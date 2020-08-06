@@ -1,4 +1,5 @@
 # Device Registry Service (DRS)
+Written in python 3
 
 ## Usage
 All responses will be of the form
